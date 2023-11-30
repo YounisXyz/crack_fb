@@ -5,7 +5,7 @@
   🇵🇰TRICKER PAKISTAN🇵🇰
 </h4>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=Hello+World+I'm+YounisXyz+😊;The+Owner+Of+XYZ+Coders+💀;This+Berlin+Tool+Is+Free+😗)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=Hello+World+I'm+YounisXyz+😊;The+Owner+Of+XYZ+Coders+💀;This+Don+Tool+Is+Free+😗)](https://git.io/typing-svg)
 <img src="https://github.com/YounisXyz/Free/blob/main/images/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
 ![Alt text](https://github.com/YounisXyz/Free/blob/main/images/md7Oqrf-1.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=YOU+RESPECT+ME+I+RESPECT+YOU+😊;YOU+DISPECT+ME+I+FUCK+YOU+🙂)](https://git.io/typing-svg)
@@ -50,6 +50,6 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-MuhammadYounis-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/xyzhackers)
 [![Instagram](https://img.shields.io/badge/Instagram-Account-dark?style=for-the-badge&logo=instagram)](https://Instagram.com/younisxyz)
-* If there is something you don't understand, contact WhatsApp ðŸ‘‡
+* If there is something you don't understand, contact WhatsApp
 
 [![WhatsApp](https://img.shields.io/badge/whatsapp-contact-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B923404708884&text&app_absent=0)
